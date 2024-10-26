@@ -1,6 +1,6 @@
 # 💫 About Me:
 i'm a Web/Backend developer<br>using NodeJS, ExpressJS<br>
-<img href="https://loanitt.saudmt.com/" src="https://github.com/SalehAlobaylan/LoanIt-Website/blob/main/front-end/resources/TitiledLogo-removebg-preview.png" alt="" width="200"/>
+<img href="https://loanitt.saudmt.com/" src="https://github.com/SalehAlobaylan/LoanIt-Website/blob/main/front-end/resources/TitiledLogo-removebg-preview.png" alt="" width="50"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saleh-Alobaylan) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan) 
