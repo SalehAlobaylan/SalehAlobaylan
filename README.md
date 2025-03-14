@@ -3,9 +3,9 @@
 ## 💫 About Me
 I'm a passionate Web/Backend Developer with expertise in Node.js and Express.js. I enjoy building scalable and efficient backend systems and web applications. Currently focused on creating robust API solutions and database architecture.
 
-- 🔭 I'm currently working on expanding my backend development skills
-- 🌱 I'm learning advanced TypeScript and cloud deployment strategies
-- 👯 I'm open to collaboration on web development and API projects
+- 🔭 I'm expanding my development stack with Frontend
+- 🌱 I'm learning DevOps practices and cloud technologies
+- 👯 I'm open to collaboration on web development and cloud infrastructure projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saleh-Alobaylan) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan) 
@@ -34,11 +34,11 @@ I'm a passionate Web/Backend Developer with expertise in Node.js and Express.js.
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<!-- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+<!-- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) -->
+<!-- ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) -->
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Testing
@@ -57,7 +57,7 @@ I'm a passionate Web/Backend Developer with expertise in Node.js and Express.js.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salehalobaylan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehalobaylan&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehalobaylan&theme=dark&hide_border=false" alt="GitHub Streak" /> -->
 </div>
 
 <div align="center">
@@ -72,8 +72,8 @@ I'm a passionate Web/Backend Developer with expertise in Node.js and Express.js.
 [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan) -->
 
 ---
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=salehalobaylan&icon=0&color=0" alt="Visit Count" />
-</div>
+</div> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
