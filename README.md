@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Saleh Alobaylan
 
 ## 💫 About Me
-I'm a passionate Web/Backend Developer with expertise in Node.js and Express.js. I enjoy building scalable and efficient backend systems and web applications. Currently focused on creating robust API solutions and database architecture.
+<!-- Web and backend developer experienced with modern web frameworks and the MEAN stack. Adept in designing RESTful APIs, implementing authentication best practices, and practicing test‑driven development. Passionate about building scalable, maintainable systems using agile and microservices methodologies. -->
+
+Backend developer who either fix your code or probably destroy it so choose your guy carefully :)
 
 - 🔭 I'm expanding my development stack with Frontend
 - 🌱 I'm learning DevOps practices and cloud technologies
