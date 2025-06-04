@@ -12,6 +12,11 @@ Backend developer who either fix your code or probably destroy it so choose your
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saleh-Alobaylan) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan) 
 
+<!--
+| <a href="https://github.com/salehalobaylan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salehalobaylan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="salehalobaylan's github stats" /></a> | <a href="https://github.com/salehalobaylan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehalobaylan&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- | 
+-->
+
 ## 🚀 Technical Skills
 
 ### Backend Development
