@@ -59,6 +59,9 @@ Backend developer who either fix your code or probably destroy it so choose your
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehalobaylan&theme=dark&hide_border=false" alt="GitHub Streak" /> -->
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehalobaylan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 <!-- ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=salehalobaylan&limit=5&theme=merko&combine_all_yearly_contributions=true) -->
