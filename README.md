@@ -52,11 +52,13 @@ Backend developer who either fix your code or probably destroy it so choose your
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehalobaylan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salehalobaylan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehalobaylan&theme=dark&hide_border=false" alt="GitHub Streak" /> -->
 </div>
+
 
 <!-- ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=salehalobaylan&limit=5&theme=merko&combine_all_yearly_contributions=true) -->
