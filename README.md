@@ -22,6 +22,8 @@ Backend developer who either fix your code or probably destroy it so choose your
 | ------------- | ------------- |
 
 ## Stacked in these
+<p align="left">
+
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
   <img src="https://skillicons.dev/icons?i=go" alt="Go" height="50" />
@@ -29,8 +31,11 @@ Backend developer who either fix your code or probably destroy it so choose your
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="50" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
+</p> 
 
 ### And worked with these
+<p align="left">
+
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="40" />
@@ -45,7 +50,7 @@ Backend developer who either fix your code or probably destroy it so choose your
   ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Microservices](https://img.shields.io/badge/Microservices-gray?style=for-the-badge&logo=hexagonal-architecture&logoColor=white)
-
+</p> 
 
 <!-- ## 🚀 Technical Skills -->
 
