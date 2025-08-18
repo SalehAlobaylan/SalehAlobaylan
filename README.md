@@ -8,19 +8,20 @@ Backend developer who either fix your code or probably destroy it so choose your
 
 - 🔭 I'm expanding my development stack with Next.js
 - 🌱 I'm learning DevOps practices and cloud technologies
+- 📚 Currently reading: **Building Microservices** by Sam Newman
+
 <!-- - 👯 I'm open to collaboration on web development and cloud infrastructure projects-->
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saleh-Alobaylan) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan)
- <img src="https://komarev.com/ghpvc/?username=salehalobaylan&label=Profile%20views&color=0e75b6&style=flat" alt="salehalobaylan" />
-
-
+<img src="https://komarev.com/ghpvc/?username=salehalobaylan&label=Profile%20views&color=0e75b6&style=flat" alt="salehalobaylan" />
 
 | <a href="https://github.com/salehalobaylan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salehalobaylan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="salehalobaylan's github stats" /></a> | <a href="https://github.com/salehalobaylan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehalobaylan&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## Stacked in these
+
 <p align="left">
 
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" />
@@ -30,9 +31,10 @@ Backend developer who either fix your code or probably destroy it so choose your
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="50" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
-</p> 
+</p>
 
 ### And worked with these
+
 <p align="left">
 
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
@@ -43,16 +45,20 @@ Backend developer who either fix your code or probably destroy it so choose your
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="40" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
 
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Microservices](https://img.shields.io/badge/Microservices-gray?style=for-the-badge&logo=hexagonal-architecture&logoColor=white)
-</p> 
+
+</p>
 
 <!-- ## 🚀 Technical Skills -->
-
 
 <!-- Languages -->
 <!-- <p align="left">
@@ -144,7 +150,5 @@ Backend developer who either fix your code or probably destroy it so choose your
 [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan) -->
 
 ---
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
