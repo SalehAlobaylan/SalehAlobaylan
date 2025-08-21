@@ -1,13 +1,14 @@
-# 👋 Hello, I'm Saleh Alobaylan
+# 👋 Greetings
 
-## 💫 About Me
+<!-- ## 💫 About Me -->
 
 <!-- Web and backend developer experienced with modern web frameworks and the MEAN stack. Adept in designing RESTful APIs, implementing authentication best practices, and practicing test‑driven development. Passionate about building scalable, maintainable systems using agile and microservices methodologies. -->
 
-Backend developer who either fix your code or probably destroy it so choose your guy carefully :)
+I'm Backend developer who either fix your code or probably destroy it so choose your guy carefully :)
 
 - 🔭 I'm expanding my development stack with Next.js
 - 🌱 I'm learning DevOps practices and cloud technologies
+- 🎯 Next up: Diving into **Data Streaming** concepts
 - 📚 Currently reading: **Building Microservices** by Sam Newman
 
 <!-- - 👯 I'm open to collaboration on web development and cloud infrastructure projects-->
@@ -149,6 +150,6 @@ Backend developer who either fix your code or probably destroy it so choose your
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saleh-Alobaylan)
 [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan) -->
 
----
+<!-- --- -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
