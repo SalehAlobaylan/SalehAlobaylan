@@ -25,34 +25,35 @@ I'm Backend developer who either fix your code or probably destroy it so choose 
 
 <p align="left">
 
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" height="50" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="50" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" height="45" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="45" />
 </p>
 
 ### And worked with these
 
 <p align="left">
 
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="40" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="40" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="40" />
-  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="40" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="35" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="35" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="35" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="35" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="35" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="35" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="35" />
+  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="35" />
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="35" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="35" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="35" />
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Microservices](https://img.shields.io/badge/Microservices-gray?style=for-the-badge&logo=hexagonal-architecture&logoColor=white)
