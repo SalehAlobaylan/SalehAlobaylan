@@ -15,7 +15,7 @@ I'm obsessed with scalable systems and performance, and trying to avoid security
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saleh-Alobaylan) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SalehAlobaylan) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan)
 <img src="https://komarev.com/ghpvc/?username=salehalobaylan&label=Profile%20views&color=0e75b6&style=flat" alt="salehalobaylan" />
 
 | <a href="https://github.com/salehalobaylan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salehalobaylan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="salehalobaylan's github stats" /></a> | <a href="https://github.com/salehalobaylan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehalobaylan&layout=compact&theme=transparent&hide_border=true" /></a> |
@@ -57,6 +57,7 @@ I'm obsessed with scalable systems and performance, and trying to avoid security
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Microservices](https://img.shields.io/badge/Microservices-gray?style=for-the-badge&logo=hexagonal-architecture&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </p>
 
