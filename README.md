@@ -4,7 +4,7 @@
 
 <!-- Web and backend developer experienced with modern web frameworks and the MEAN stack. Adept in designing RESTful APIs, implementing authentication best practices, and practicing test‑driven development. Passionate about building scalable, maintainable systems using agile and microservices methodologies. -->
 
-I'm obsessed with scalable systems and performance, and trying to avoid frontend 😑
+I'm obsessed with scalable backend systems and performance, and trying to avoid frontend 😑
 
 - 🔭 I'm expanding my development stack with Next.js
 - 🌱 I'm learning DevOps practices and cloud technologies
