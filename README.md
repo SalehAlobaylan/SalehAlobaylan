@@ -18,13 +18,19 @@ I'm obsessed with scalable backend systems and performance, and trying to avoid 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SalehAlobaylan) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Salobaylan)
 <img src="https://komarev.com/ghpvc/?username=salehalobaylan&label=Profile%20views&color=0e75b6&style=flat" alt="salehalobaylan" />
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salehalobaylan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="salehalobaylan's github stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehalobaylan&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salehalobaylan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salehalobaylan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+        <br/>
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=salehalobaylan&theme=dark&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Stacked in these
