@@ -22,12 +22,12 @@ I'm obsessed with scalable backend systems and performance, and trying to avoid 
   <table>
     <tr>
       <td>
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salehalobaylan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+        <img width="1000%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salehalobaylan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
       </td>
       <td>
-        <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salehalobaylan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+        <img width="90%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salehalobaylan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
         <br/>
-        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=salehalobaylan&theme=dark&hide_border=true" alt="GitHub Streak" />
+        <!-- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=salehalobaylan&theme=dark&hide_border=true" alt="GitHub Streak" /> -->
       </td>
     </tr>
   </table>
